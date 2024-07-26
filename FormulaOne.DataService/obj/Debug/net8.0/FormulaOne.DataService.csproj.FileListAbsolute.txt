@@ -1,0 +1,17 @@
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.deps.json
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.dll
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.pdb
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.AssemblyInfoInputs.cache
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.AssemblyInfo.cs
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.csproj.CoreCompileInputs.cache
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.dll
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/obj/Debug/net8.0/refint/FormulaOne.DataService.dll
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.pdb
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/obj/Debug/net8.0/ref/FormulaOne.DataService.dll
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.csproj.AssemblyReference.cache
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.DataService.runtimeconfig.json
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.Entities.dll
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/bin/Debug/net8.0/FormulaOne.Entities.pdb
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.csproj.CopyComplete
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.DataService/obj/Debug/net8.0/FormulaOne.DataService.genruntimeconfig.cache

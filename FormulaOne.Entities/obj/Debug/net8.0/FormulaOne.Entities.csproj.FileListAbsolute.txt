@@ -1,0 +1,11 @@
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.AssemblyInfoInputs.cache
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.AssemblyInfo.cs
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.csproj.CoreCompileInputs.cache
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.Entities/bin/Debug/net8.0/FormulaOne.Entities.deps.json
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.Entities/bin/Debug/net8.0/FormulaOne.Entities.dll
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.Entities/bin/Debug/net8.0/FormulaOne.Entities.pdb
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.dll
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.Entities/obj/Debug/net8.0/refint/FormulaOne.Entities.dll
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.pdb
+/Users/1989deny/Desktop/CSharpAPI/FormulaOne.Entities/obj/Debug/net8.0/ref/FormulaOne.Entities.dll
